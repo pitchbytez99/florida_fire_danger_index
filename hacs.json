@@ -1,6 +1,5 @@
 {
     "name": "Florida Fire Danger Index",
-    "country": "US",
-    "homeassistant": "2025.4.4",
+    "homeassistant": "2025.4",
     "render_readme": true
 }
