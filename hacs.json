@@ -1,5 +1,5 @@
 {
-    "name": "florida_fire_danger_index",
+    "name": "Florida Fire Danger Index",
     "homeassistant": "2025.4.0",
     "render_readme": true
 }
