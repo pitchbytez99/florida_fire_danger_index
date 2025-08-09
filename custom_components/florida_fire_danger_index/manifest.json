@@ -1,8 +1,7 @@
 {
   "domain": "florida_fire_danger_index",
   "name": "Florida Fire Danger Index",
-  "version": "0.1",
-  "platforms": ["sensor"],
+  "version": "0.1.0",
   "documentation": "https://github.com/pitchbytez99/florida_fire_danger_index",
   "requirements": ["beautifulsoup4>=4.9.3",
                    "fake-useragent>=0.1.11",
