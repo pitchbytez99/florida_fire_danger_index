@@ -1,6 +1,0 @@
-{
-    "name": "florida_fire_danger_index",
-    "domains": ["Florida Fire Danger Index"],
-    "homeassistant": "2025.4.4",
-    "render_readme": true
-}
